@@ -39,7 +39,7 @@ Para começar a praticar, siga os passos abaixo:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença GNU - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença GNU General Public License v3.0 - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 

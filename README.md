@@ -40,7 +40,3 @@ Para começar a praticar, siga os passos abaixo:
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença GNU General Public License v3.0 - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Esse modelo é simples e direto, adequado para um repositório de estudos. Se você desejar, posso personalizá-lo com base nos arquivos específicos que você possui no repositório. Gostaria que eu fizesse isso?

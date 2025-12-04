@@ -178,33 +178,33 @@
 
 // OBS: Estas exibições só serão feitas se a média for maior ou igual a 8.000,00.
 
-$funcionario = [];
+// $funcionario = [];
 
-for ($i = 0; $i < 3; $i++) {
+// for ($i = 0; $i < 3; $i++) {
 
-    echo "Digite o salário do funcionário " . $i + 1 . ": ";
+//     echo "Digite o salário do funcionário " . $i + 1 . ": ";
 
-    $sal = fgets(STDIN);
+//     $sal = fgets(STDIN);
 
-    $funcionario[$i] = $sal;
+//     $funcionario[$i] = $sal;
 
-    System("clear");
-}
+//     System("clear");
+// }
 
-$media = ($funcionario[0] + $funcionario[1]  + $funcionario[2]) / 3;
+// $media = ($funcionario[0] + $funcionario[1]  + $funcionario[2]) / 3;
 
-$max = max(array_map(null, $funcionario)); // pega todos os valores e mapeia, retornando o maior
+// $max = max(array_map(null, $funcionario)); // pega todos os valores e mapeia, retornando o maior
 
-$min = min(array_map(null, $funcionario)); // pega todos os valores e mapeia, retornando o menor
+// $min = min(array_map(null, $funcionario)); // pega todos os valores e mapeia, retornando o menor
 
-if ($media >= 8000) {
+// if ($media >= 8000) {
 
-    echo "O maior salário é: " . $max . "\n";
+//     echo "O maior salário é: " . $max . "\n";
 
-    echo "O menor salário é: " . $min . "\n";
+//     echo "O menor salário é: " . $min . "\n";
 
-    echo "A média salarial é: " . $media . "\n\n";
-} else {
+//     echo "A média salarial é: " . $media . "\n\n";
+// } else {
 
-    echo "Salário inválido ou menor do que R$ 8.000,00\n\n";
-}
+//     echo "Salário inválido ou menor do que R$ 8.000,00\n\n";
+// }
